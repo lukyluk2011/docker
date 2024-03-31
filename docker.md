@@ -16,7 +16,7 @@ docker run -it -v c:\\"nevim":\workdir TAG
 
 
 
-\\ "nevim" je cesta k souboru, nebo složce co k ní má pak docker kontejner přístup
+\\\ "nevim" je cesta k souboru, nebo složce co k ní má pak docker kontejner přístup
 
 
 
@@ -26,7 +26,7 @@ docker run -it -v c:\\"nevim":\workdir TAG
 
 
 
-\\ c:\ je značka disku na které soubor nebo sloška jsou
+\\\ c:\ je značka disku na které soubor nebo sloška jsou
 
 
 
@@ -34,4 +34,4 @@ docker run -it -v c:\\"nevim":\workdir TAG
 
 
 
-\\ za dvojtečkou je cesta k souboru uvnitř kontejneru
+\\\ za dvojtečkou je cesta k souboru uvnitř kontejneru
