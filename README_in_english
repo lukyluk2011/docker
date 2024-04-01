@@ -1,0 +1,5 @@
+# docker
+
+## dockerfile
+
+Dockerfile is a file. In the file you can say to docker, what you want the docker contayner do. The conteyner do that, but just if you 
