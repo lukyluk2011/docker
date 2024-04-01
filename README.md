@@ -10,3 +10,4 @@ Po dopsání dockerfileu je třeba ho zbuildit. To se udělá pomocí "docker bu
 
 ## run cotejner
 
+Kontejner je třeba také pustit.
