@@ -6,4 +6,7 @@ Dockerfile je soubor, ve kterém dockeru řekneme co má udělat a on to udělá
 
 ## build file
 
-Po dopsání dockerfileu je třeba ho zbuildit. to se udělá pomocí 
+Po dopsání dockerfileu je třeba ho zbuildit. To se udělá pomocí "docker build -t TAG -f Dockerfile ." Kde TAG je název, se kterým to potom spustíme.
+
+## run cotejner
+
